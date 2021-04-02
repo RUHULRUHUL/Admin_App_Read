@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745224614256",
+    "firebase_url": "https://attendence-29a64-default-rtdb.firebaseio.com",
+    "project_id": "attendence-29a64",
+    "storage_bucket": "attendence-29a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745224614256:android:185c8fee4a74c4f08b9fb5",
+        "android_client_info": {
+          "package_name": "com.ruhul.admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745224614256-63k50191sn3e8ggphcd7mdie21c60rs3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruhul.admin_app",
+            "certificate_hash": "4a3ce77ff8d531372208aa04d1ab7346ff67ae25"
+          }
+        },
+        {
+          "client_id": "745224614256-9mojcdp8kc93v46v3hof4li6l2hsl12l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAkYsq49bGYo6cD24vEDCX07urcQzIa2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745224614256-9mojcdp8kc93v46v3hof4li6l2hsl12l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
